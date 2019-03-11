@@ -1,5 +1,5 @@
 # silva
-silva android system framework based on ROS
+silva android system framework based on ROS(cpp core)
 
 master branch:[![Build Status](https://travis-ci.org/ustyui/silva.svg?branch=master)](https://travis-ci.org/ustyui/silva)
 
